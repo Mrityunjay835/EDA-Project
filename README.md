@@ -17,7 +17,7 @@ pip install pandas numpy matplotlib seaborn
 
 ## ▶️ How to Run  
 ```bash
-git clone git@github.com:YourUsername/Indian-Kids-Screentime-2025.git
+git clone git@github.com: Mrityunja835/EDA-Project/Indian-Kids-Screentime-2025.git
 cd Indian-Kids-Screentime-2025
 jupyter notebook IndianKidsScreenTime.ipynb
 ```  
