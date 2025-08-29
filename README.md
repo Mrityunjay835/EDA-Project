@@ -12,7 +12,11 @@ This project dives into the **screen time patterns of Indian kids**, exploring d
 ## ⚙️ Requirements  
 Make sure you’ve got Python 3.8+ and install dependencies:  
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install
+pip pandas
+pip numpy
+pip matplotlib
+pip seaborn
 ```  
 
 ## ▶️ How to Run  
